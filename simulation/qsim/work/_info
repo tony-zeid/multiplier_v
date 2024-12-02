@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Ant\Design\Quartus\multiplier_v\simulation\qsim
+vmultiplier_v
+Z1 !s100 hR31Re5_`eI^4_J694YFZ1
+Z2 I_6`P8W<Zf>fdMB7B:;@mm3
+Z3 V6zb5SfL5=hULQ6BB830G?0
+Z4 dC:\Users\Ant\Design\Quartus\multiplier_v\simulation\qsim
+Z5 w1732688432
+Z6 8multiplier_v.vo
+Z7 Fmultiplier_v.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|multiplier_v.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1732688433.001000
+Z12 !s107 multiplier_v.vo|
+!s101 -O0
+vmultiplier_v_vlg_check_tst
+!i10b 1
+Z13 !s100 4[31:jlX[0VNdR1;AYWz22
+Z14 IYb7dibdIK=?G5am991=aP3
+Z15 VRZIJILT9EKnhF6k@nK?Pd3
+R4
+Z16 w1732688431
+Z17 8multiplier_v.vt
+Z18 Fmultiplier_v.vt
+L0 71
+R8
+r1
+!s85 0
+31
+Z19 !s108 1732688433.306000
+Z20 !s107 multiplier_v.vt|
+Z21 !s90 -work|work|multiplier_v.vt|
+!s101 -O0
+R10
+vmultiplier_v_vlg_sample_tst
+!i10b 1
+Z22 !s100 3`C:ho`N8a4SJJRMJmkoD2
+Z23 I=@:6UIZE4dY>__iJASiPM3
+Z24 V`aj_m[@mi7nHVQCLlYBMG1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vmultiplier_v_vlg_vec_tst
+!i10b 1
+Z25 !s100 3X6`dV805F5E]Bh0bKX<G1
+Z26 IMHP@MA3a5Q6fUdFckWGbP3
+Z27 VB=d8Vj^kc@a=Kf=64@Q>_1
+R4
+R16
+R17
+R18
+Z28 L0 363
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
